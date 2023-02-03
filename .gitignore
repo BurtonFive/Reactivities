@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 appsettings.json
-API/reactivities.db-shm
-API/reactivities.db-wal
+reactivities.db-shm
+reactivities.db-wal
 
 # User-specific files
 *.rsuser

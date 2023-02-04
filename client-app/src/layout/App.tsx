@@ -77,7 +77,6 @@ function handleCreateOrEditActivity(activity: Activity) {
 if (loading) return <LoadingComponent content='Loading App' />
 
   return (
-
     <>
       <NavBar openForm={handleFormOpen} />
       <Container style={{marginTop: '7em'}}>
